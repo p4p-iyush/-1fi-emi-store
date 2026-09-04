@@ -1,4 +1,4 @@
-export const API_URL = "http://localhost:3000/api/products";
+export const API_URL = "https://1fi-emi-store-1.onrender.com/";
 
 // Rough color-name to swatch-hex map so the color picker can render an
 // actual dot instead of plain text. Falls back to a neutral grey dot
